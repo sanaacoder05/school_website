@@ -1,0 +1,21 @@
+
+#HOME{
+    background-image: linear-gradient(to bottom right, rgb(201, 240, 238), rgb(151, 110, 255));
+    overflow: hidden;
+    font-family: 'Comic Neue', cursive;
+  }
+  
+
+ 
+#myNavbar{
+    font-size: 23px;
+    font-family: 'Darumadrop One', cursive;
+    float : top;
+    background-image: linear-gradient(to bottom left,  rgb(215, 80, 80),rgb(222, 175, 222));
+
+}
+
+#CAMPUS{
+    font-family: 'Darumadrop One', cursive;
+    background-image: linear-gradient(to bottom left,  rgb(151, 110, 255), rgb(201, 240, 238));
+}
